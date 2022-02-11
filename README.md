@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Maldonado
 - 👀 I’m interested in CFD, FEA, and Machine Learning
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on all kinds of projects related to Machine Learning, even better with project merging CFD/FEA with Machine Learning
+- 💞️ I’m looking to collaborate on all kinds of projects related to Machine Learning, even better with projects merging CFD/FEA with Machine Learning
 - 📫 My LinkedIn page is https://www.linkedin.com/in/lcmaldonadoj/
